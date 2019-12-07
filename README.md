@@ -12,7 +12,7 @@ To start, you will either need:
 
 The output of the notebook will be tab-delimited data that can be copy/pasted into the NSF template
 
-## Step 1: Get Citation in RIS format
+## Step 1: Get Citations in RIS format
 
 ### You have a citation database of your publications
 
