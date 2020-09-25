@@ -33,4 +33,4 @@ Note Google Scholar does not have gold-standard citation information but it is v
 ## Step 2: Run the Notebook
 
 Run `nsf-coa-template.ipynb` using Jupyter or Azure Notebooks.
-You will need to install [IFSharp](https://github.com/fsprojects/IfSharp) to run on Jupyter.
+You will need to install either [.NET interactive](https://github.com/dotnet/interactive/blob/main/docs/NotebooksLocalExperience.md) or [IFSharp](https://github.com/fsprojects/IfSharp) to run on Jupyter.
